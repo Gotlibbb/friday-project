@@ -1,0 +1,11 @@
+.headerBlock{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    border: black solid 1px;
+    font-size: 20px;
+}
+
+.headerBlock a {
+
+}
